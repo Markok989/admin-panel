@@ -1,3 +1,17 @@
+# Simple Material UI Form Example
+
+## To run locally
+
+```
+npm install
+npm start
+```
+
+Then open [`http://localhost:3030/`](http://localhost:3030/).
+
+
+_______________________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
